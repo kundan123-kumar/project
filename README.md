@@ -1,3 +1,3 @@
 # Project
 # RAZORPAY 
-Install the node modeules
+Install the node modules using npm i
